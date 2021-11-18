@@ -1,0 +1,154 @@
+{
+  "features": [
+    {
+      "properties": {
+        "NAME": "001XX N STATE ST",
+        "DESCRIPTIO": "Total Crime Amount: 3634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.627929824, 41.885347387]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "0000X W TERMINAL ST",
+        "DESCRIPTIO": "Total Crime Amount: 2746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.906463155, 41.979006297]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "008XX N MICHIGAN AVE",
+        "DESCRIPTIO": "Total Crime Amount: 2465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.624116333, 41.898767916]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "076XX S CICERO AVE",
+        "DESCRIPTIO": "Total Crime Amount: 2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.741528537, 41.754592961]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "0000X N STATE ST",
+        "DESCRIPTIO": "Total Crime Amount: 1884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.627841791, 41.88233367]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "064XX S DR MARTIN LUTHER KING JR DR",
+        "DESCRIPTIO": "Total Crime Amount: 1349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.615558249, 41.777558327]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "083XX S STEWART AVE",
+        "DESCRIPTIO": "Total Crime Amount: 1216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.634088181, 41.742710224]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "063XX S DR MARTIN LUTHER KING JR DR",
+        "DESCRIPTIO": "Total Crime Amount: 1138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.615599831, 41.7790899]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "051XX W MADISON ST",
+        "DESCRIPTIO": "Total Crime Amount: 1115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.752850634, 41.880401861]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "046XX W NORTH AVE",
+        "DESCRIPTIO": "Total Crime Amount: 1113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.742728815, 41.909664252]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "009XX W BELMONT AVE",
+        "DESCRIPTIO": "Total Crime Amount: 1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.652086737, 41.93994148]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "011XX S CANAL ST",
+        "DESCRIPTIO": "Total Crime Amount: 1084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.63921847, 41.868067057]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "008XX N STATE ST",
+        "DESCRIPTIO": "Total Crime Amount: 1046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.628257833, 41.898933376]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "040XX W LAKE ST",
+        "DESCRIPTIO": "Total Crime Amount: 1007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.726422045, 41.885487535]
+      }
+    },
+    {
+      "properties": {
+        "NAME": "100XX W OHARE ST",
+        "DESCRIPTIO": "Total Crime Amount: 965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.905227221, 41.976290414]
+      }
+    }
+  ]
+}
