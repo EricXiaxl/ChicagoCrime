@@ -1,65 +1,6 @@
-export const geoCoordMap = {
-	'和平':[117.2,39.12],
-	'河东':[117.25,39.12],
-	'河西':[117.22,39.12],
-	'南开':[117.15,39.13],
-	'河北':[117.18,39.15],
-	'红桥':[117.15,39.17],
-	'塘沽':[117.65,39.02],
-	'汉沽':[117.8,39.25],
-	'大港':[117.45,38.33],
-	'东丽':[117.3,39.88],
-	'西青':[117,39.13],
-	'津南':[117.38,38.98],
-	'北辰':[117.13,39.22],
-	'武清':[117.03,39.38],
-	'宝坻':[117.3,39.72],
-	'宁河':[117.82,39.33],
-	'静海':[116.92,38.93],
-	'蓟县':[117.4,40.05]
-}
-
 export const AllData = [
 	{
 		"BigCode":"001XX N STATE ST",
-		"BtoDataList":[
-			{
-				"name":"和平",
-				"value":1.4
-			},
-			{
-				"name":"河东",
-				"value":5.95
-			},
-			{
-				"name":"河西",
-				"value":5.69
-			},
-			{
-				"name":"南开",
-				"value":10.2
-			},
-			{
-				"name":"河北",
-				"value":0.6
-			},
-			{
-				"name":"红桥",
-				"value":0.5
-			},
-			{
-				"name":"塘沽",
-				"value":0.2
-			},
-			{
-				"name":"汉沽",
-				"value":0.51
-			},
-			{
-				"name":"大港",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -85,44 +26,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"0000X W TERMINAL ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.5
-			},
-			{
-				"name":"武清",
-				"value":15.95
-			},
-			{
-				"name":"和平",
-				"value":30.69
-			},
-			{
-				"name":"南开",
-				"value":40.2
-			},
-			{
-				"name":"红桥",
-				"value":60.6
-			},
-			{
-				"name":"保税空港",
-				"value":20.5
-			},
-			{
-				"name":"滨海新区",
-				"value":30.2
-			},
-			{
-				"name":"开发",
-				"value":40.51
-			},
-			{
-				"name":"北辰",
-				"value":50.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -148,44 +51,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"008XX N MICHIGAN AVE",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":31.4
-			},
-			{
-				"name":"武清",
-				"value":35.95
-			},
-			{
-				"name":"和平",
-				"value":40.69
-			},
-			{
-				"name":"南开",
-				"value":60.2
-			},
-			{
-				"name":"红桥",
-				"value":80.6
-			},
-			{
-				"name":"保税空港",
-				"value":90.5
-			},
-			{
-				"name":"滨海新区",
-				"value":10.2
-			},
-			{
-				"name":"开发",
-				"value":30.51
-			},
-			{
-				"name":"北辰",
-				"value":210.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -211,44 +76,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"076XX S CICERO AVE",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -274,44 +101,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"0000X N STATE ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -337,44 +126,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"064XX S DR MARTIN LUTHER KING JR DR",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"BATTERY",
@@ -400,44 +151,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"083XX S STEWART AVE",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -463,44 +176,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"063XX S DR MARTIN LUTHER KING JR DR",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"BATTERY",
@@ -526,44 +201,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"051XX W MADISON ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"NARCOTICS",
@@ -589,44 +226,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"046XX W NORTH AVE",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -652,44 +251,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"009XX W BELMONT AVE",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -715,44 +276,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"011XX S CANAL ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",
@@ -778,44 +301,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"008XX N STATE ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"DECEPTIVE PRACTICE",
@@ -841,44 +326,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"040XX W LAKE ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"DECEPTIVE PRACTICE",
@@ -904,44 +351,6 @@ export const AllData = [
 	},
 	{
 		"BigCode":"100XX W OHARE ST",
-		"BtoDataList":[
-			{
-				"name":"河东",
-				"value":1.4
-			},
-			{
-				"name":"武清",
-				"value":5.95
-			},
-			{
-				"name":"和平",
-				"value":0.69
-			},
-			{
-				"name":"南开",
-				"value":0.2
-			},
-			{
-				"name":"红桥",
-				"value":0.6
-			},
-			{
-				"name":"保税空港",
-				"value":0.5
-			},
-			{
-				"name":"滨海新区",
-				"value":0.2
-			},
-			{
-				"name":"开发",
-				"value":0.51
-			},
-			{
-				"name":"北辰",
-				"value":0.6
-			}
-		],
 		"nameDataList":[
 			{
 				"name":"THEFT",

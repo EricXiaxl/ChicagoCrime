@@ -8,7 +8,7 @@ import {
 } from '@material-ui/core';
 import echarts from 'echarts';
 import 'echarts/map/js/province/tianjin';
-import {AllData, geoCoordMap} from "./AllData";
+import {AllData} from "./AllData";
 import Map from "./Map"
 
 export default function () {
@@ -16,7 +16,7 @@ export default function () {
     const chartRef = useRef();
     let chartInstance;
     let [clientHeight, setClientHeight] = useState(0)
-    let [data, setData] = useState(AllData[0].BtoDataList)
+    // let [data, setData] = useState(AllData[0].BtoDataList)
     let [oneData,setOneData] = useState(AllData[0])
 
     function renderChart(xData, yData){
@@ -104,7 +104,7 @@ export default function () {
         // renderMap()
         // setClientHeight(mapRef.current.clientHeight)
         setClientHeight(700)
-    }, [data])
+    }, [])
 
     useEffect(() => {
         return () => {
@@ -114,7 +114,7 @@ export default function () {
     }, [])
 
     const changeHandle = (item) => {
-        setData(item.BtoDataList)
+        // setData(item.BtoDataList)
         setOneData(item)
     }
 
